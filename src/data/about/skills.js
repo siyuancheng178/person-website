@@ -1,7 +1,7 @@
 const skills = [
   {
     title: 'Javascript',
-    competency: 3,
+    competency: 4,
     category: ['Languages', 'Frontend Development'],
   },
   {
@@ -11,7 +11,7 @@ const skills = [
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
-    competency: 3,
+    competency: 4,
     category: ['Languages', 'Frontend Development'],
   },
   {
@@ -36,7 +36,7 @@ const skills = [
   },
   {
     title: 'Spring Boot',
-    competency: 4,
+    competency: 5,
     category: ['Backend Development'],
   },
   {

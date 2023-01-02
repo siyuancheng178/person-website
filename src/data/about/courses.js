@@ -1,5 +1,15 @@
 const courses = [
   {
+    title: 'Programming Methodology',
+    number: 'CS1010',
+    link: 'https://nusmods.com/modules/CS1010/programming-methodology',
+  },
+  {
+    title: 'Programming Methodology II',
+    number: 'CS2030',
+    link: 'https://nusmods.com/modules/CS2030/programming-methodology-ii',
+  },
+  {
     title: 'Data Structures and Algorithm',
     number: 'CS2040C',
     link: 'https://nusmods.com/modules/CS2040C/data-structures-and-algorithms',
@@ -30,9 +40,14 @@ const courses = [
     link: 'https://nusmods.com/modules/CS4224/distributed-databases',
   },
   {
-    title: 'Programming Methodology II',
-    number: 'CS2030',
-    link: 'https://nusmods.com/modules/CS2030/programming-methodology-ii',
+    title: 'Parallel and Concurrent Programming',
+    number: 'CS3211',
+    link: 'https://nusmods.com/modules/CS3211/parallel-and-concurrent-programming',
+  },
+  {
+    title: 'Database Applications Design and Tuning',
+    number: 'CS4221',
+    link: 'https://nusmods.com/modules/CS4221/database-applications-design-and-tuning',
   },
   {
     title: 'Software Engineering and Object-Oriented Programming',
