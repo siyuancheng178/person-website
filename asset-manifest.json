@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/person-website/static/css/main.75d0c194.css",
-    "main.js": "/person-website/static/js/main.79ec8e0d.js",
+    "main.js": "/person-website/static/js/main.b686aafa.js",
     "static/js/562.966436bb.chunk.js": "/person-website/static/js/562.966436bb.chunk.js",
     "static/js/478.cdec36e8.chunk.js": "/person-website/static/js/478.cdec36e8.chunk.js",
     "static/js/922.a65afe4f.chunk.js": "/person-website/static/js/922.a65afe4f.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/209.664e29c4.chunk.js": "/person-website/static/js/209.664e29c4.chunk.js",
     "index.html": "/person-website/index.html",
     "main.75d0c194.css.map": "/person-website/static/css/main.75d0c194.css.map",
-    "main.79ec8e0d.js.map": "/person-website/static/js/main.79ec8e0d.js.map",
+    "main.b686aafa.js.map": "/person-website/static/js/main.b686aafa.js.map",
     "562.966436bb.chunk.js.map": "/person-website/static/js/562.966436bb.chunk.js.map",
     "478.cdec36e8.chunk.js.map": "/person-website/static/js/478.cdec36e8.chunk.js.map",
     "922.a65afe4f.chunk.js.map": "/person-website/static/js/922.a65afe4f.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.75d0c194.css",
-    "static/js/main.79ec8e0d.js"
+    "static/js/main.b686aafa.js"
   ]
 }
